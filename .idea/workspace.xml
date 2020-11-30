@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02894f84-94ea-4263-8fc3-8173cfa559cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kxezZL8PJ235fKifTsjW5wzj2v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.numgenerator.springimpl.controller" />
+      <recent name="com.numgenerator.springimpl.bean" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="NumberGeneratorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.numgenerator.springimpl.NumberGeneratorApplication" />
+      <module name="number-generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.numgenerator.springimpl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControllerTest.TestGenerateBulkTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="number-generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.numgenerator.springimpl.webTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.numgenerator.springimpl.webTest" />
+      <option name="MAIN_CLASS_NAME" value="com.numgenerator.springimpl.webTest.ControllerTest" />
+      <option name="METHOD_NAME" value="TestGenerateBulkTask" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControllerTest.TestGetNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="number-generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.numgenerator.springimpl.webTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.numgenerator.springimpl.webTest" />
+      <option name="MAIN_CLASS_NAME" value="com.numgenerator.springimpl.webTest.ControllerTest" />
+      <option name="METHOD_NAME" value="TestGetNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControllerTest.TestTaskGenerate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="number-generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.numgenerator.springimpl.webTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.numgenerator.springimpl.webTest" />
+      <option name="MAIN_CLASS_NAME" value="com.numgenerator.springimpl.webTest.ControllerTest" />
+      <option name="METHOD_NAME" value="TestTaskGenerate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ControllerTest.TestGetNumbers" />
+        <item itemvalue="JUnit.ControllerTest.TestGenerateBulkTask" />
+        <item itemvalue="JUnit.ControllerTest.TestTaskGenerate" />
+        <item itemvalue="Application.NumberGeneratorApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02894f84-94ea-4263-8fc3-8173cfa559cd" name="Default Changelist" comment="" />
+      <created>1606646933592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606646933592</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="125" width="1166" height="496" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1606706456517">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="100" y="125" width="1166" height="496" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.27.1366.694@0.27.1366.694" timestamp="1606706456517" />
+    <state x="491" y="60" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1606649418000">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="491" y="60" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/0.27.1366.694@0.27.1366.694" timestamp="1606649418000" />
+    <state x="416" y="155" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1606708838358">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="416" y="155" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog/0.27.1366.694@0.27.1366.694" timestamp="1606708838358" />
+    <state x="414" y="241" width="545" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606708846126">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="414" y="241" width="545" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1366.694@0.27.1366.694" timestamp="1606708846126" />
+    <state width="1320" height="39" key="GridCell.Tab.0.bottom" timestamp="1606708683812">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="39" key="GridCell.Tab.0.bottom/0.27.1366.694@0.27.1366.694" timestamp="1606708683812" />
+    <state width="1320" height="39" key="GridCell.Tab.0.center" timestamp="1606708683811">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="39" key="GridCell.Tab.0.center/0.27.1366.694@0.27.1366.694" timestamp="1606708683811" />
+    <state width="1320" height="39" key="GridCell.Tab.0.left" timestamp="1606708683811">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="39" key="GridCell.Tab.0.left/0.27.1366.694@0.27.1366.694" timestamp="1606708683811" />
+    <state width="1320" height="39" key="GridCell.Tab.0.right" timestamp="1606708683811">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="39" key="GridCell.Tab.0.right/0.27.1366.694@0.27.1366.694" timestamp="1606708683811" />
+    <state width="1320" height="55" key="GridCell.Tab.1.bottom" timestamp="1606704830037">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="55" key="GridCell.Tab.1.bottom/0.27.1366.694@0.27.1366.694" timestamp="1606704830037" />
+    <state width="1320" height="55" key="GridCell.Tab.1.center" timestamp="1606704830037">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="55" key="GridCell.Tab.1.center/0.27.1366.694@0.27.1366.694" timestamp="1606704830037" />
+    <state width="1320" height="55" key="GridCell.Tab.1.left" timestamp="1606704830037">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="55" key="GridCell.Tab.1.left/0.27.1366.694@0.27.1366.694" timestamp="1606704830037" />
+    <state width="1320" height="55" key="GridCell.Tab.1.right" timestamp="1606704830037">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="55" key="GridCell.Tab.1.right/0.27.1366.694@0.27.1366.694" timestamp="1606704830037" />
+  </component>
+</project>
