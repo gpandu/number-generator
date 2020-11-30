@@ -3,8 +3,34 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="02894f84-94ea-4263-8fc3-8173cfa559cd" name="Default Changelist" comment="" />
+    <list default="true" id="02894f84-94ea-4263-8fc3-8173cfa559cd" name="Default Changelist" comment="#3&#10;Updating port number">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +61,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -42,7 +69,7 @@
       <recent name="com.numgenerator.springimpl.bean" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.NumberGeneratorApplication">
     <configuration name="NumberGeneratorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.numgenerator.springimpl.NumberGeneratorApplication" />
       <module name="number-generator" />
@@ -106,10 +133,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberGeneratorApplication" />
         <item itemvalue="JUnit.ControllerTest.TestGetNumbers" />
         <item itemvalue="JUnit.ControllerTest.TestGenerateBulkTask" />
         <item itemvalue="JUnit.ControllerTest.TestTaskGenerate" />
-        <item itemvalue="Application.NumberGeneratorApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +149,30 @@
       <option name="presentableId" value="Default" />
       <updated>1606646933592</updated>
     </task>
+    <task id="LOCAL-00001" summary="Revert &quot;#3 Updating port number&quot;&#10;&#10;This reverts commit 886166e2">
+      <created>1606717687543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606717687543</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;#3 Updating port number&quot;&#10;&#10;This reverts commit 886166e2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;#3 Updating port number&quot;&#10;&#10;This reverts commit 886166e2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="100" y="125" width="1166" height="496" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1606706456517">
@@ -141,6 +191,10 @@
       <screen x="0" y="27" width="1366" height="694" />
     </state>
     <state x="414" y="241" width="545" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1366.694@0.27.1366.694" timestamp="1606708846126" />
+    <state x="222" y="27" width="912" height="694" key="CommitChangelistDialog2" timestamp="1606717725665">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="222" y="27" width="912" height="694" key="CommitChangelistDialog2/0.27.1366.694@0.27.1366.694" timestamp="1606717725665" />
     <state width="1320" height="39" key="GridCell.Tab.0.bottom" timestamp="1606708683812">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
