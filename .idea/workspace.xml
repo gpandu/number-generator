@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02894f84-94ea-4263-8fc3-8173cfa559cd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="02894f84-94ea-4263-8fc3-8173cfa559cd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +23,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.3-bin/1iopthnavndlasol9gbrbg6bf2/apache-maven-3.6.3" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -40,10 +35,6 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -51,7 +42,7 @@
       <recent name="com.numgenerator.springimpl.bean" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumberGeneratorApplication">
+  <component name="RunManager">
     <configuration name="NumberGeneratorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.numgenerator.springimpl.NumberGeneratorApplication" />
       <module name="number-generator" />
@@ -115,10 +106,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumberGeneratorApplication" />
         <item itemvalue="JUnit.ControllerTest.TestGetNumbers" />
         <item itemvalue="JUnit.ControllerTest.TestGenerateBulkTask" />
         <item itemvalue="JUnit.ControllerTest.TestTaskGenerate" />
+        <item itemvalue="Application.NumberGeneratorApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -134,10 +125,6 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="166" y="27" width="1024" height="694" key="#Project_Structure" timestamp="1606717005939">
-      <screen x="0" y="27" width="1366" height="694" />
-    </state>
-    <state x="166" y="27" width="1024" height="694" key="#Project_Structure/0.27.1366.694@0.27.1366.694" timestamp="1606717005939" />
     <state x="100" y="125" width="1166" height="496" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1606706456517">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
